@@ -1,2 +1,4 @@
-# Learn-AndroidAppDevelopment
-**This Repository Contains Useful Resources, Notes, and Roadmaps for Learning Android Applications Development**
+# Android Roadmaps :point_down: <br />
+- [https://github.com/ahmed-shehataa/Android-Roadmap](https://github.com/ahmed-shehataa/Android-Roadmap)<br />
+- [https://github.com/Mohannad-El-Sayeh/Android-Roadmap](https://github.com/Mohannad-El-Sayeh/Android-Roadmap)<br />
+
